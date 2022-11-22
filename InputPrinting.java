@@ -6,7 +6,6 @@ public class InputPrinting {
        int a = scn.nextInt();
        System.out.print("Number is: " + a);
        scn.close();
-
     }
 }
 
