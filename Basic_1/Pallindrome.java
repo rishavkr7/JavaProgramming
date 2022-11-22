@@ -27,6 +27,7 @@ public class Pallindrome {
         System.out.println("THE GIVEN NUMBER " +num+" IS NOT A PALLINDROME NUMBER");
         }
     }
+    scn.close();
 }
 }
 
