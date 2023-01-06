@@ -34,7 +34,7 @@ public class Sum{
        scn.close();
     }
 }
-
+2
 **/
 
 
